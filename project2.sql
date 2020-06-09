@@ -171,7 +171,7 @@ CREATE TABLE `teacher_info` (
 
 INSERT INTO `teacher_info` (`t_id`, `t_fullname`, `t_address`, `t_email`, `t_username`, `t_pass`, `t_father`, `t_mother`, `t_dob`, `t_qualification`, `t_contact`, `t_staff_type`, `t_gender`) VALUES
 (1, 'rijina', 'kerala', 'rijina@gmail.com', 'rijina', '', 'hari prasad thapa', 'sita kumari thapa', '20 Feb 1978', '12', 986811111, 'Teacher', 'Male'),
-(2, 'deepa', 'Lokanthali', 'deepa@gmail.com', 'deepa', '', 'Abc Xyz', 'Bcd Xyz', '29 feb 2000', '+2', 98680000, 'Admin', 'Male'),
+(2, 'ashik', 'Lokanthali', 'ashikrichara@gmail.com', 'ashik', '', 'Abc Xyz', 'Bcd Xyz', '29 feb 2000', '+2', 98680000, 'Admin', 'Male'),
 (3, 'Hello', 'Kathmandu', 'hello@gmail.com', 'hello', 'hello', 'hello abc ', 'world abc', '20 jan 1885', 'Master', 98680222, 'Teacher', 'Male'),
 (5, 'prahba', 'Bhaktapur', 'prabha@gmail.com', 'prabha', 'prabha', 'Abc xyz', 'bcd xyz', '22 feb 2000', 'Master ', 9866666, 'Teacher', 'Male');
 
